@@ -31,7 +31,7 @@ python predict.py --config <path_to_config.yml_in_the_out_dir> --test_dir <path_
 
 ![image](out1.png)*未知データに対する結果*
 
-![image](graph.png)*PSNRとgenerator損失関数の推移*
+![image](graph.png)*generator損失関数とPSNRの推移*
 
 # 2. データセット作成手順
 
