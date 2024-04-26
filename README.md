@@ -4,7 +4,7 @@
 
 ![image](out2.png)
 このプロジェクトは[Zhangらの研究](https://github.com/zhangbaijin/SpA-Former-shadow-removal)
-に基づいています．学習モデルの詳しい構造についてはそちらのページをご覧ください．
+に基づいています．ZhangらプロジェクトをForkして，私のデータセットやモデルを入れて使ってください．
 # Qucikly run
 ## 1.1. Prepare
 まず最初に[こちら](https://drive.google.com/drive/folders/1msa7-CZBNfkE8LwEcrT5lCcOd-lnkmB8?usp=sharing)
